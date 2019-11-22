@@ -1,7 +1,7 @@
 from nltk.chat.util import Chat, reflections
 pairs = [
     [
-        r"my name is (.*)",
+        r"my name is (.aviansh*)",
         ["Hello %1, How are you today ?",]
     ],
      [
